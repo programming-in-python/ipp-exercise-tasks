@@ -33,7 +33,7 @@ Please see the following links for some helpful information about the PIP exerci
 
 - Step 1: Review the [Kanban Board](https://github.com/orgs/programming-in-python/projects/1) - this contains all exercise tasks within an ordered board
   - Available here: [Programming in Python Kanban Board](https://github.com/orgs/programming-in-python/projects/1)
-    - There are dozens of exercises listed, and while many can stand alone, the intent is for the reader to work through each exercise in order. This approach will ensure later exercises are understandable for the reader, as some concepts covered in earlier lab modules will be necessary to execute later lab modules successfully. This content is based on the course I created for teaching introductory Python programming in a lab-based University course.
+    - There are dozens of exercises listed, and while many can stand alone, the intent is for the reader to work through each exercise in order. This approach will ensure later exercises are understandable for the reader, as some concepts covered in earlier lab modules will be necessary to execute later lab modules successfully.
 
 - Step 2: Review the primary code repository:
   - PEC - [Programming in Python - Exercise Source Components](https://github.com/programming-in-python/pip-exercise-components/)
@@ -52,10 +52,26 @@ The requirements contained within this repository are captured as a simple list 
 
 Lab Modules are organized into 'parts', which are intended to represent categories of exercises that are related, yet are also designed to be implemented in sequence, as each part is intended to be implemented in sequence (e.g., Part 01 first, with each lab module implemented in order, followed by Part 02, etc.) Lab module details are currently under development and will be linked here when available. For now, the structure is as follows: 
   - [Part 01: Foundations](https://github.com/programming-in-python/pip-exercise-tasks/issues/4)
+    - Introducing Computer Programming and the Python Language
+    - Python Syntax (primitive types, variables, operators, string formatting)
+    - Functions and Control Flow (application state, declarations, parameters, loops, exceptions)
+    - Review and Quiz No. 1 (for those taking my course)
   - [Part 02: Design, Data Structures and Logic](https://github.com/programming-in-python/pip-exercise-tasks/issues/5)
-  - [Part 03: I/O and Error Handling](https://github.com/programming-in-python/pip-exercise-tasks/issues/6)
+    - Data Types (non-primitive types - array, list, set, dict, tuple)
+    - Objects and Classes (modules, classes, inheritence, encapsulation, polymorphism)
+    - Concurrency (multi-threading, asyncio)
+    - Review and Quiz No. 2 (for those taking my course)
+  - [Part 03: Data Handling](https://github.com/programming-in-python/pip-exercise-tasks/issues/6)
+    - I/O (file, network, DB)
+    - Data Processing (Numpy, Pandas)
+    - Data Visualization (Matplotlib)
+    - Review and Quiz No. 3 (for those taking my course)
   - [Part 04: Data Processing](https://github.com/programming-in-python/pip-exercise-tasks/issues/7)
-  
+    - Use Cases (sample problems to solve using Python)
+    - Project Work (lab week)
+    - Project Work (lab week)
+    - Project Presentations
+
 Each exercise within a given Lab Module is labeled using one or more of the following categories:
   - [build](https://github.com/programming-in-python/pip-exercise-tasks/labels/additional): Build and / or DevOps related task (e.g., checkout a new branch).
   - [configuration](https://github.com/programming-in-python/pip-exercise-tasks/labels/configuration): Configuration related task (e.g., install some software).
