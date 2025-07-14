@@ -52,9 +52,9 @@ The requirements contained within this repository are captured as a simple list 
 
 Lab Modules are organized into 'parts', which are intended to represent categories of exercises that are related, yet are also designed to be implemented in sequence, as each part is intended to be implemented in sequence (e.g., Part 01 first, with each lab module implemented in order, followed by Part 02, etc.) Lab module details are currently under development and will be linked here when available. For now, the structure is as follows: 
   - [Part 01: Foundations](https://github.com/programming-in-python/pip-exercise-tasks/issues/4)
-  - [Part 02: Core Components](https://github.com/programming-in-python/pip-exercise-tasks/issues/5)
-  - [Part 03: Use Cases](https://github.com/programming-in-python/pip-exercise-tasks/issues/6)
-  - [Part 04: Final Project](https://github.com/programming-in-python/pip-exercise-tasks/issues/7)
+  - [Part 02: Design, Data Structures and Logic](https://github.com/programming-in-python/pip-exercise-tasks/issues/5)
+  - [Part 03: I/O and Error Handling](https://github.com/programming-in-python/pip-exercise-tasks/issues/6)
+  - [Part 04: Data Processing](https://github.com/programming-in-python/pip-exercise-tasks/issues/7)
   
 Each exercise within a given Lab Module is labeled using one or more of the following categories:
   - [build](https://github.com/programming-in-python/pip-exercise-tasks/labels/additional): Build and / or DevOps related task (e.g., checkout a new branch).
