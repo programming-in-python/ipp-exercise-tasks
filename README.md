@@ -158,6 +158,8 @@ This code base is under active development.
 
 If any code samples or other technology this work contains, describes, and / or is subject to open source licenses or the intellectual property rights of others, it is your responsibility to ensure that your use thereof complies with such licenses and/or rights.
 
+All trademarks referenced herein are property of their respective holders.
+
 # LICENSE
 
 Please see [LICENSE information in PIP-DOC-LIC](https://github.com/programming-in-python/pip-exercise-tasks/issues/2) for more information. In summary:
