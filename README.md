@@ -132,8 +132,6 @@ Please note that API changes can - and likely will - occur at any time.
 
 ## Tools and Specifications (subject to change)
 
-- [TBA Name](TBA URL)
-  - Reference: Name. (yyyy) [Online]. Available: URL.
 - [pip-exercise-tasks](https://github.com/programming-in-python/pip-exercise-tasks)
   - Reference: Andrew D. King. Programming in Python Lab Module Exercise Tasks (PET). (2025) [Online]. Available: https://github.com/programming-in-python/pip-exercise-tasks.
 - [pip-exercise-components](https://github.com/programming-in-python/pip-exercise-components)
@@ -142,6 +140,17 @@ Please note that API changes can - and likely will - occur at any time.
   - Reference: Microsoft. Visual Studio Code. Available: https://code.visualstudio.com/. Accessed 15Nov2023.
 - [Wireshark](https://www.wireshark.org/)
   - Reference: G. Combs et al. Wireshark. Available: https://gitlab.com/wireshark/wireshark. Accessed 15Nov2023.
+
+## Content
+
+- [The Python programming language](https://github.com/python/cpython)
+  - Reference: "The Python programming language.", Python Software Foundation. Available: https://github.com/python/cpython. Accessed 15 July 2025.
+- [Python for beginners](https://www.python.org/about/gettingstarted/)
+  - Reference: “Python for Beginners.”, Python Software Foundation, Available: https://www.python.org/about/gettingstarted/. Accessed 15 July 2025.
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+  - Reference: "The Python Tutorial.", Python Software Foundation. Available: https://docs.python.org/3/tutorial/index.html. Accessed 15 July 2025.
+- [The Python Standard Library](https://docs.python.org/3/library/index.html)
+  - Reference: "The Python Standard Library.", Python Software Foundation. Available: https://docs.python.org/3/library/index.html. Accessed 15 July 2025. 
 
 # IMPORTANT NOTES
 
