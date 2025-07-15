@@ -50,7 +50,9 @@ The requirements contained within this repository are captured as a simple list 
 
 ### Lab Modules, Milestones and Labels Navigation
 
-Lab Modules are organized into 'parts', which are intended to represent categories of exercises that are related, yet are also designed to be implemented in sequence, as each part is intended to be implemented in sequence (e.g., Part 01 first, with each lab module implemented in order, followed by Part 02, etc.) Lab module details are currently under development and will be linked here when available. For now, the structure is as follows: 
+Lab Modules are organized into 'parts', which are intended to represent categories of exercises that are related, yet are also designed to be implemented in sequence, as each part is intended to be implemented in sequence (e.g., Part 01 first, with each lab module implemented in order, followed by Part 02, etc.) Lab module details are currently under development and will be linked here when available.
+
+While subject to change, the course syllabus will generally align to the following schedule (assuming a 16-week semester): 
   - [Part 01: Foundations](https://github.com/programming-in-python/pip-exercise-tasks/issues/4)
     - Introducing Computer Programming and the Python Language
     - Python Syntax (primitive types, variables, operators, string formatting)
@@ -68,8 +70,8 @@ Lab Modules are organized into 'parts', which are intended to represent categori
     - Review and Quiz No. 3 (for those taking my course)
   - [Part 04: Problem Solving with Python](https://github.com/programming-in-python/pip-exercise-tasks/issues/7)
     - Use Cases (sample problems to solve using Python)
-    - Project Work (lab week)
-    - Project Work (lab week)
+    - Project Work #1 (lab week)
+    - Project Work #2 (lab week: NOTE that this is only if 16 weeks of class meeting time are available for the semester)
     - Project Presentations
 
 Each exercise within a given Lab Module is labeled using one or more of the following categories:
