@@ -56,7 +56,7 @@ Lab Modules are organized into 'parts', which are intended to represent categori
     - Python Syntax (primitive types, variables, operators, string formatting)
     - Functions and Control Flow (application state, declarations, parameters, loops, exceptions)
     - Review and Quiz No. 1 (for those taking my course)
-  - [Part 02: Data Structures, Objects, and Processing](https://github.com/programming-in-python/pip-exercise-tasks/issues/5)
+  - [Part 02: Data Structures, Classes, and Concurrency](https://github.com/programming-in-python/pip-exercise-tasks/issues/5)
     - Data Types (non-primitive types - array, list, set, dict, tuple)
     - Objects and Classes (modules, classes, inheritence, encapsulation, polymorphism)
     - Concurrency (multi-threading, asyncio)
