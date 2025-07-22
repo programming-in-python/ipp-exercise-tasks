@@ -1,4 +1,4 @@
-# Programming in Python - Lab Module Tasks
+# Intro to Programming in Python - Lab Module Tasks
 
 ## Overview
 
@@ -6,7 +6,7 @@ This project captures the Lab Module exercises and associated requirements for m
 
 All Lab Module exercises can be found here (NOTE: The tasks contained in this repository are 'issues' which are ordered within the Kanban Board listed below):
 
-- [Programming in Python Kanban Board](https://github.com/orgs/programming-in-python/projects/1)
+- [Intro to Programming in Python Kanban Board](https://github.com/orgs/programming-in-python/projects/1)
 
 ### Project Objectives
 
@@ -20,27 +20,27 @@ This repository captures the Lab Module task descriptions to be used in my Intro
 
 ### Helpful Links
 
-PIP Kanban Board: [Programming in Python Requirements](https://github.com/orgs/programming-in-python/projects/1)
+IPP Kanban Board: [Intro to Programming in Python Requirements](https://github.com/orgs/programming-in-python/projects/1)
 
-Please see the following links for some helpful information about the PIP exercises and other associated repositories. Please note that many of the exercises and sample source code in this repository is based on some of the patterns and exercises from my book, [Programming the Internet of Things Book](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/).
- - Programming in Python (PIP) specific:
-   - [Programming in Python - Lab Module Exercise Tasks (aka the PIP Kanban Board)](https://github.com/orgs/programming-in-python/projects/1)
-   - [Programming in Python - Lab Module Exercise Components](https://github.com/programming-in-python/pip-exercise-components/)
+Please see the following links for some helpful information about the IPP exercises and other associated repositories. Please note that many of the exercises and sample source code in this repository is based on some of the patterns and exercises from my book, [Programming the Internet of Things Book](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/).
+ - Intro to Programming in Python (IPP) specific:
+   - [Intro to Programming in Python - Lab Module Exercise Tasks (aka the IPP Kanban Board)](https://github.com/orgs/programming-in-python/projects/1)
+   - [Intro to Programming in Python - Lab Module Exercise Components](https://github.com/programming-in-python/ipp-exercise-components/)
  - Other reading links:
    - [Programming the Internet of Things Book](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/)
 
 ## Usage
 
 - Step 1: Review the [Kanban Board](https://github.com/orgs/programming-in-python/projects/1) - this contains all exercise tasks within an ordered board
-  - Available here: [Programming in Python Kanban Board](https://github.com/orgs/programming-in-python/projects/1)
+  - Available here: [Intro to Programming in Python Kanban Board](https://github.com/orgs/programming-in-python/projects/1)
     - There are dozens of exercises listed, and while many can stand alone, the intent is for the reader to work through each exercise in order. This approach will ensure later exercises are understandable for the reader, as some concepts covered in earlier lab modules will be necessary to execute later lab modules successfully.
 
 - Step 2: Review the primary code repository:
-  - PEC - [Programming in Python - Exercise Source Components](https://github.com/programming-in-python/pip-exercise-components/)
+  - PEC - [Intro to Programming in Python - Python Exercise Source Components](https://github.com/programming-in-python/ipp-exercise-components/)
     - This repository contains the Python-based templates and configuration information needed for those taking my Introduction to Python Programming course.
 
 - Step 3: Clone the repository and start Programming in Python:
-  - Implement each lab module described in the [Programming in Python Kanban Board](https://github.com/orgs/programming-in-python/projects/1)
+  - Implement each lab module described in the [Intro to Programming in Python Kanban Board](https://github.com/orgs/programming-in-python/projects/1)
     - Run the tests described in each module to verify functionality works as expected
   - Have fun building!
 
@@ -53,34 +53,34 @@ The requirements contained within this repository are captured as a simple list 
 Lab Modules are organized into 'parts', which are intended to represent categories of exercises that are related, yet are also designed to be implemented in sequence, as each part is intended to be implemented in sequence (e.g., Part 01 first, with each lab module implemented in order, followed by Part 02, etc.) Lab module details are currently under development and will be linked here when available.
 
 While subject to change, the course syllabus will generally align to the following schedule (assuming a 16-week semester): 
-  - [Part 01: Foundations](https://github.com/programming-in-python/pip-exercise-tasks/issues/4)
+  - [Part 01: Foundations](https://github.com/programming-in-python/ipp-exercise-tasks/issues/4)
     - Introducing Computer Programming and the Python Language
     - Python Syntax (primitive types, variables, operators, string formatting)
     - Functions and Control Flow (application state, declarations, parameters, loops, exceptions)
     - Review and Quiz No. 1 (for those taking my course)
-  - [Part 02: Data Structures, Classes, and Concurrency](https://github.com/programming-in-python/pip-exercise-tasks/issues/5)
+  - [Part 02: Data Structures, Classes, and Concurrency](https://github.com/programming-in-python/ipp-exercise-tasks/issues/5)
     - Data Types (non-primitive types - array, list, set, dict, tuple)
     - Objects and Classes (modules, classes, inheritence, encapsulation, polymorphism)
     - Concurrency (multi-threading, asyncio)
     - Review and Quiz No. 2 (for those taking my course)
-  - [Part 03: Data Handling and Presentation](https://github.com/programming-in-python/pip-exercise-tasks/issues/6)
+  - [Part 03: Data Handling and Presentation](https://github.com/programming-in-python/ipp-exercise-tasks/issues/6)
     - I/O (file, network, DB)
     - Data Processing (Numpy, Pandas)
     - Data Visualization (Matplotlib)
     - Review and Quiz No. 3 (for those taking my course)
-  - [Part 04: Problem Solving with Python](https://github.com/programming-in-python/pip-exercise-tasks/issues/7)
+  - [Part 04: Problem Solving with Python](https://github.com/programming-in-python/ipp-exercise-tasks/issues/7)
     - Use Cases (sample problems to solve using Python)
     - Project Work #1 (lab week)
     - Project Work #2 (lab week: NOTE that this is only if 16 weeks of class meeting time are available for the semester)
     - Project Presentations
 
 Each exercise within a given Lab Module is labeled using one or more of the following categories:
-  - [build](https://github.com/programming-in-python/pip-exercise-tasks/labels/additional): Build and / or DevOps related task (e.g., checkout a new branch).
-  - [configuration](https://github.com/programming-in-python/pip-exercise-tasks/labels/configuration): Configuration related task (e.g., install some software).
-  - [documentation](https://github.com/programming-in-python/pip-exercise-tasks/labels/documentation): Documentation related task (e.g., write-up your approach).
-  - [exercise](https://github.com/programming-in-python/pip-exercise-tasks/labels/exercise): Required exercise related task (i.e., you should implement this).
-  - [additional](https://github.com/programming-in-python/pip-exercise-tasks/labels/additional): Optional (additional) exercise task (i.e., if you're a student in my class, you should implement this, although it is currently optional).
-  - [integration](https://github.com/programming-in-python/pip-exercise-tasks/labels/integration): Test and integration related task (e.g., test connection between apps).
+  - [build](https://github.com/programming-in-python/ipp-exercise-tasks/labels/additional): Build and / or DevOps related task (e.g., checkout a new branch).
+  - [configuration](https://github.com/programming-in-python/ipp-exercise-tasks/labels/configuration): Configuration related task (e.g., install some software).
+  - [documentation](https://github.com/programming-in-python/ipp-exercise-tasks/labels/documentation): Documentation related task (e.g., write-up your approach).
+  - [exercise](https://github.com/programming-in-python/ipp-exercise-tasks/labels/exercise): Required exercise related task (i.e., you should implement this).
+  - [additional](https://github.com/programming-in-python/ipp-exercise-tasks/labels/additional): Optional (additional) exercise task (i.e., if you're a student in my class, you should implement this, although it is currently optional).
+  - [integration](https://github.com/programming-in-python/ipp-exercise-tasks/labels/integration): Test and integration related task (e.g., test connection between apps).
   
 ### About Naming and Numbering Conventions
 
@@ -90,7 +90,7 @@ Exercises and notes are named according to the following convention:
 
 This naming convention is designed to help you navigate through the requirements in each Lab Module sequentially, building your solution in a step-by-step manner. The naming breakdown is as follows:
   - project name:
-    - PIP: The project name (Programming the in Python).
+    - IPP: The project name (Programming the in Python).
   - category:
     - DOC: General documentation that provides a summary overview of the section or lab module.
     - INF: An informational note.
@@ -105,17 +105,17 @@ This naming convention is designed to help you navigate through the requirements
 
 The structure of each chapter's notes and requirements are sequenced based on the ordered guidelines listed below:
   - FIRST: Read the information (INF) notes to help guide you through the exercises.
-    - Example (INF): PIP-INF-01-001 is the first (001) note in Lab Module 01 associated with Programming in Python (PIP), and is for informational (INF) purposes.
-  - SECOND: If you're a student in a PIP-specific course (e.g., Building Digital Twins), read through the STU category requirements to prepare for each exercise. Else, skip to the THIRD guideline.
-    - Example (STU): PIP-STU-02-001 is the first (001) student-specific task in Lab Module 02 associated with Programming in Python (PIP).
+    - Example (INF): IPP-INF-01-001 is the first (001) note in Lab Module 01 associated with Programming in Python (IPP), and is for informational (INF) purposes.
+  - SECOND: If you're a student in a IPP-specific course (e.g., Building Digital Twins), read through the STU category requirements to prepare for each exercise. Else, skip to the THIRD guideline.
+    - Example (STU): IPP-STU-02-001 is the first (001) student-specific task in Lab Module 02 associated with Programming in Python (IPP).
   - THIRD: Read and implement the configuration (CFG) requirements to prepare for each exercise.
-    - Example (CFG): PIP-CFG-02-001 is the first (001) configuration-specific task in Lab Module 02 associated with Programming in Python (PIP).
+    - Example (CFG): IPP-CFG-02-001 is the first (001) configuration-specific task in Lab Module 02 associated with Programming in Python (IPP).
   - FOURTH: Read and implement each exercise related to the Python Exercise Components (PEC).
-    - Example (PEC): PIP-PEC-01-001 is the first (001) PEC task in Lab Module 01 associated with Programming in Python (PIP). It only applies to the given Python programming exercise.
+    - Example (PEC): IPP-PEC-01-001 is the first (001) PEC task in Lab Module 01 associated with Programming in Python (IPP). It only applies to the given Python programming exercise.
   - FIFTH: Read and implement any integration exercise(s) to verify your functionality is working properly.
-    - Example (INT): PIP-INT-05-001 is the first (001) integration task in Lab Module 05 associated with Programming in Python (PIP). Unless otherwise specified, it should be implemented AFTER all CFG and PEC related tasks.
+    - Example (INT): IPP-INT-05-001 is the first (001) integration task in Lab Module 05 associated with Programming in Python (IPP). Unless otherwise specified, it should be implemented AFTER all CFG and PEC related tasks.
 
-NOTE: As alluded to previously, an exception to the numbering sequence scheme is made for build-specific tasks related to the PEC repository. The initial build requirement (check out a new branch) is numbered '000' for each component (e.g., PIP-PEC-02-000) and should be implemented before any other component-specific requirement, and '100' for the final build requirement (e.g., PIP-PEC-02-100), which should be implemented after all other component-specific requirements.
+NOTE: As alluded to previously, an exception to the numbering sequence scheme is made for build-specific tasks related to the PEC repository. The initial build requirement (check out a new branch) is numbered '000' for each component (e.g., IPP-PEC-02-000) and should be implemented before any other component-specific requirement, and '100' for the final build requirement (e.g., IPP-PEC-02-100), which should be implemented after all other component-specific requirements.
 
 ## Other things to know
 
@@ -132,10 +132,10 @@ Please note that API changes can - and likely will - occur at any time.
 
 ## Tools and Specifications (subject to change)
 
-- [pip-exercise-tasks](https://github.com/programming-in-python/pip-exercise-tasks)
-  - Reference: Andrew D. King. Programming in Python Lab Module Exercise Tasks (PET). (2025) [Online]. Available: https://github.com/programming-in-python/pip-exercise-tasks.
-- [pip-exercise-components](https://github.com/programming-in-python/pip-exercise-components)
-  - Reference: Andrew D. King. Programming in Python Lab Module Exercise Components (PEC). (2025) [Online]. Available: https://github.com/programming-in-python/pip-exercise-components.
+- [ipp-exercise-tasks](https://github.com/programming-in-python/ipp-exercise-tasks)
+  - Reference: Andrew D. King. Programming in Python Lab Module Exercise Tasks (PET). (2025) [Online]. Available: https://github.com/programming-in-python/IPP-exercise-tasks.
+- [ipp-exercise-components](https://github.com/programming-in-python/ipp-exercise-components)
+  - Reference: Andrew D. King. Programming in Python Lab Module Exercise Components (PEC). (2025) [Online]. Available: https://github.com/programming-in-python/IPP-exercise-components.
 - [Visual Studio Code](https://code.visualstudio.com/)
   - Reference: Microsoft. Visual Studio Code. Available: https://code.visualstudio.com/. Accessed 15Nov2023.
 - [Wireshark](https://www.wireshark.org/)
@@ -162,16 +162,16 @@ All trademarks referenced herein are property of their respective holders.
 
 # LICENSE
 
-Please see [LICENSE information in PIP-DOC-LIC](https://github.com/programming-in-python/pip-exercise-tasks/issues/2) for more information. In summary:
+Please see [LICENSE information in IPP-DOC-LIC](https://github.com/programming-in-python/ipp-exercise-tasks/issues/2) for more information. In summary:
 
 *Documentation - Usage and License*
 
 This project's [written instructions and non-source code documentation](https://github.com/orgs/programming-in-python/projects/1) - all Notes, Instructions and Cards contained within this Kanban board - are available under the following license:
  - Documentation: Copyright &copy; 2025 by [Andrew D. King](https://andyking.me). Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/ " target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0 <img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>.
- - See [LICENSE](https://github.com/programming-in-python/pip-exercise-tasks/blob/default/LICENSE-DOCS.md) for details.
+ - See [LICENSE](https://github.com/programming-in-python/IPP-exercise-tasks/blob/default/LICENSE-DOCS.md) for details.
 
 *Source Code Solutions and Examples - Usage and License*
 
 This project contains embedded sample source codes representing examples and solutions. Unless otherwise represented, these embedded source codes (C# and Python) are available under the following license:
  - Source Codes: Copyright &copy; 2025 [Andrew D. King](https://andyking.me). Licensed under [The MIT License](https://opensource.org/licenses/MIT).
- - See [LICENSE-CODE](https://github.com/programming-in-python/PIP-exercise-tasks/blob/default/LICENSE-CODE.md) for details.
+ - See [LICENSE-CODE](https://github.com/programming-in-python/IPP-exercise-tasks/blob/default/LICENSE-CODE.md) for details.
