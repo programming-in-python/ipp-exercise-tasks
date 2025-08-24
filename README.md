@@ -133,9 +133,9 @@ Please note that API changes can - and likely will - occur at any time.
 ## Tools and Specifications (subject to change)
 
 - [ipp-exercise-tasks](https://github.com/programming-in-python/ipp-exercise-tasks)
-  - Reference: Andrew D. King. Programming in Python Lab Module Exercise Tasks (PET). (2025) [Online]. Available: https://github.com/programming-in-python/IPP-exercise-tasks.
+  - Reference: Andrew D. King. Programming in Python Lab Module Exercise Tasks (PET). (2025) [Online]. Available: https://github.com/programming-in-python/ipp-exercise-tasks.
 - [ipp-exercise-components](https://github.com/programming-in-python/ipp-exercise-components)
-  - Reference: Andrew D. King. Programming in Python Lab Module Exercise Components (PEC). (2025) [Online]. Available: https://github.com/programming-in-python/IPP-exercise-components.
+  - Reference: Andrew D. King. Programming in Python Lab Module Exercise Components (PEC). (2025) [Online]. Available: https://github.com/programming-in-python/ipp-exercise-components.
 - [Visual Studio Code](https://code.visualstudio.com/)
   - Reference: Microsoft. Visual Studio Code. Available: https://code.visualstudio.com/. Accessed 15Nov2023.
 - [Wireshark](https://www.wireshark.org/)
