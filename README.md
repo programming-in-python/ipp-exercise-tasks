@@ -168,10 +168,10 @@ Please see [LICENSE information in IPP-DOC-LIC](https://github.com/programming-i
 
 This project's [written instructions and non-source code documentation](https://github.com/orgs/programming-in-python/projects/1) - all Notes, Instructions and Cards contained within this Kanban board - are available under the following license:
  - Documentation: Copyright &copy; 2025 by [Andrew D. King](https://andyking.me). Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/ " target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0 <img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>.
- - See [LICENSE](https://github.com/programming-in-python/ipp-exercise-tasks/blob/main/LICENSE-DOCS.md) for details.
+ - See [LICENSE](https://github.com/programming-in-python/ipp-exercise-tasks/blob/main/LICENSE) for details.
 
 *Source Code Solutions and Examples - Usage and License*
 
 This project contains embedded sample source codes representing examples and solutions. Unless otherwise represented, these embedded source codes (C# and Python) are available under the following license:
  - Source Codes: Copyright &copy; 2025 [Andrew D. King](https://andyking.me). Licensed under [The MIT License](https://opensource.org/licenses/MIT).
- - See [LICENSE-CODE](https://github.com/programming-in-python/ipp-exercise-tasks/blob/main/LICENSE-CODE.md) for details.
+ - See [LICENSE-CODE](https://github.com/programming-in-python/ipp-exercise-tasks/blob/main/LICENSE-CODE) for details.
