@@ -36,7 +36,7 @@ Please see the following links for some helpful information about the IPP exerci
     - There are dozens of exercises listed, and while many can stand alone, the intent is for the reader to work through each exercise in order. This approach will ensure later exercises are understandable for the reader, as some concepts covered in earlier lab modules will be necessary to execute later lab modules successfully.
 
 - Step 2: Review the primary code repository:
-  - PEC - [Intro to Programming in Python - Python Exercise Source Components](https://github.com/programming-in-python/ipp-exercise-components/)
+  - [Intro to Programming in Python - Python Exercise Source Components](https://github.com/programming-in-python/ipp-exercise-components/)
     - This repository contains the Python-based templates and configuration information needed for those taking my Introduction to Python Programming course.
 
 - Step 3: Clone the repository and start Programming in Python:
@@ -110,12 +110,12 @@ The structure of each chapter's notes and requirements are sequenced based on th
     - Example (STU): IPP-STU-02-001 is the first (001) student-specific task in Lab Module 02 associated with Programming in Python (IPP).
   - THIRD: Read and implement the configuration (CFG) requirements to prepare for each exercise.
     - Example (CFG): IPP-CFG-02-001 is the first (001) configuration-specific task in Lab Module 02 associated with Programming in Python (IPP).
-  - FOURTH: Read and implement each exercise related to the Python Exercise Components (PEC).
-    - Example (PEC): IPP-PEC-01-001 is the first (001) PEC task in Lab Module 01 associated with Programming in Python (IPP). It only applies to the given Python programming exercise.
+  - FOURTH: Read and implement each exercise related to the Python Exercise Components Dev Task (DEV).
+    - Example (DEV): IPP-DEV-01-001 is the first (001) DEV task in Lab Module 01 associated with Programming in Python (IPP). It only applies to the given Python programming exercise.
   - FIFTH: Read and implement any integration exercise(s) to verify your functionality is working properly.
-    - Example (INT): IPP-INT-05-001 is the first (001) integration task in Lab Module 05 associated with Programming in Python (IPP). Unless otherwise specified, it should be implemented AFTER all CFG and PEC related tasks.
+    - Example (INT): IPP-INT-05-001 is the first (001) integration task in Lab Module 05 associated with Programming in Python (IPP). Unless otherwise specified, it should be implemented AFTER all CFG and DEV related tasks.
 
-NOTE: As alluded to previously, an exception to the numbering sequence scheme is made for build-specific tasks related to the PEC repository. The initial build requirement (check out a new branch) is numbered '000' for each component (e.g., IPP-PEC-02-000) and should be implemented before any other component-specific requirement, and '100' for the final build requirement (e.g., IPP-PEC-02-100), which should be implemented after all other component-specific requirements.
+NOTE: As alluded to previously, an exception to the numbering sequence scheme is made for build-specific tasks related to the DEV repository. The initial build requirement (check out a new branch) is numbered '000' for each component (e.g., IPP-DEV-02-000) and should be implemented before any other component-specific requirement, and '100' for the final build requirement (e.g., IPP-DEV-02-100), which should be implemented after all other component-specific requirements.
 
 ## Other things to know
 
@@ -133,9 +133,9 @@ Please note that API changes can - and likely will - occur at any time.
 ## Tools and Specifications (subject to change)
 
 - [ipp-exercise-tasks](https://github.com/programming-in-python/ipp-exercise-tasks)
-  - Reference: Andrew D. King. Programming in Python Lab Module Exercise Tasks (PET). (2025) [Online]. Available: https://github.com/programming-in-python/ipp-exercise-tasks.
+  - Reference: Andrew D. King. Programming in Python Lab Module Exercise Tasks. (2025) [Online]. Available: https://github.com/programming-in-python/ipp-exercise-tasks.
 - [ipp-exercise-components](https://github.com/programming-in-python/ipp-exercise-components)
-  - Reference: Andrew D. King. Programming in Python Lab Module Exercise Components (PEC). (2025) [Online]. Available: https://github.com/programming-in-python/ipp-exercise-components.
+  - Reference: Andrew D. King. Programming in Python Lab Module Exercise Components. (2025) [Online]. Available: https://github.com/programming-in-python/ipp-exercise-components.
 - [Visual Studio Code](https://code.visualstudio.com/)
   - Reference: Microsoft. Visual Studio Code. Available: https://code.visualstudio.com/. Accessed 15Nov2023.
 - [Wireshark](https://www.wireshark.org/)
