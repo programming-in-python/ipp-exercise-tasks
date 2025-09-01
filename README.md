@@ -90,13 +90,13 @@ Exercises and notes are named according to the following convention:
 
 This naming convention is designed to help you navigate through the requirements in each Lab Module sequentially, building your solution in a step-by-step manner. The naming breakdown is as follows:
   - project name:
-    - ipp: The project name (Programming the in Python).
+    - IPP: The project name (Programming the in Python).
   - category:
     - DOC: General documentation that provides a summary overview of the section or lab module.
     - INF: An informational note.
     - STU: A student-specific requirement, usually documentation-related (this is relevant if enrolled in the Connected Devices course, for example).
     - CFG: A configuration requirement.
-    - PEC: An Python Exercise Component-specific requirement. These are the Python-specific exercises that are part of each lab module.
+    - DEV: An Python Exercise Component-specific requirement. These are the Python-specific exercises that are part of each lab module.
     - INT: An integration requirement that may depend upon other requirements specific to those labeled as CFG, EDA and / or DTA.
   - lab module #:
     - 01 - 10: Depicts the order of implementation for the various lab modules.
